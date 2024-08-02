@@ -85,6 +85,12 @@ const aURL = [
   ],
   ["2196F3", "POTA Spots", "https://pota.app/#/", "1",],
   ["2196F3", "DX Heat", "https://dxheat.com/dxc/", "1",],
+  [
+    "2196F3",
+    "Solar Ham",
+    "https://solarham.com/",
+    "1",
+  ],	
   ["2196F3", "TIME.IS", "https://time.is/", "1",],
   [
     "2196F3",
