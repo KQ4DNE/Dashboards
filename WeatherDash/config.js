@@ -146,7 +146,6 @@ const aIMG = [
     "https://www.weather.gov/images/lwx/winter/outlook/D7_WinterThreat.png",
     "https://www.weather.gov/images/lwx/winter/ProbSnowGETr.jpg",
     "https://www.weather.gov/images/lwx/winter/ProbSnowGE01.jpg",
-    "https://www.weather.gov/images/lwx/winter/StormTotalIceWeb1.jpg",
   ],
   [
     "Charts & Fronts",
